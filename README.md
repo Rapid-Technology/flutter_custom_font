@@ -1,4 +1,4 @@
-# flutter_custom_font
+# Flutter Custom Font
 
 A new Flutter project.
 
