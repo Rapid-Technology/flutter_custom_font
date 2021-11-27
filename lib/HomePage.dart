@@ -5,6 +5,7 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Colors.green[700],
         title: Text(
           "Custom Font",
           style: TextStyle(fontSize: 30),
